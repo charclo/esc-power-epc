@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "FROST-ESC")(type "KiCad")(uri "${KIPRJMOD}/libraries/ESC-power-epc.pretty")(options "")(descr ""))
+  (lib (name "lm5113")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_LM5113SD-NOPB/KiCAD/2022-11-21_19-12-11/footprints.pretty")(options "")(descr ""))
+)
