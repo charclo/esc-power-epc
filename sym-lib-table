@@ -1,5 +1,5 @@
 (sym_lib_table
   (lib (name "FROST-ESC")(type "KiCad")(uri "${KIPRJMOD}/libraries/FROST-ESC.kicad_sym")(options "")(descr ""))
   (lib (name "FLUX_BMS")(type "KiCad")(uri "${KIPRJMOD}/libraries/FLUX_BMS.kicad_sym")(options "")(descr ""))
-  (lib (name "2022-11-21_19-12-11")(type "Legacy")(uri "${KIPRJMOD}/libraries/ul_LM5113SD-NOPB/KiCAD/2022-11-21_19-12-11/2022-11-21_19-12-11.lib")(options "")(descr ""))
+  (lib (name "2022-11-21_19-12-11")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_LM5113SD-NOPB/KiCAD/2022-11-21_19-12-11/2022-11-21_19-12-11.kicad_sym")(options "")(descr ""))
 )

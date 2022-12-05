@@ -641,12 +641,20 @@
       ""
     ],
     [
+      "d47d7642-5aec-4a8b-aba9-9621e8870e0a",
+      "GaN_B"
+    ],
+    [
+      "8742291b-997b-44e5-952d-1171b45ebc49",
+      "GaN_A"
+    ],
+    [
       "012deb7b-ff72-42db-a764-0ee6c0f3e9d5",
       "GATE"
     ],
     [
-      "0404f14d-f924-4a23-9854-c8aeae4a09e1",
-      "MOSFETS"
+      "00048a09-3cf2-45fc-a568-53106ac4b632",
+      "GaN_C"
     ]
   ],
   "text_variables": {}
